@@ -22,6 +22,7 @@
 </p>
 
 > [!IMPORTANT]
+> Good news! :tada: Our survey paper has been successfully accepted by TKDE. :fire::fire::fire:
 > 
 > A curated collection of papers and resources on Mixture of Experts in Large Language Models.
 > 
