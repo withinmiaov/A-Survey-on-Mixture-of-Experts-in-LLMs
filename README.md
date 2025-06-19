@@ -51,6 +51,30 @@
 
 ## Paper List (Organized Chronologically and Categorically)
 
+- MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention, [[ArXiv 2025]](https://www.arxiv.org/abs/2506.13585), 2025-6-16
+
+- Serving Large Language Models on Huawei CloudMatrix384, [[ArXiv 2025]](https://www.arxiv.org/abs/2506.12708), 2025-6-15
+  
+- Ming-Omni: A Unified Multimodal Model for Perception and Generation, [[ArXiv 2025]](https://arxiv.org/abs/2506.09344), 2025-6-11
+
+- MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production, [[ArXiv 2025]](https://arxiv.org/abs/2505.11432), 2025-5-16
+
+- Seed1.5-VL Technical Report, [[ArXiv 2025]](https://arxiv.org/abs/2505.07062), 2025-5-11
+
+- Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs, [[ArXiv 2025]](https://arxiv.org/abs/2505.04519), 2025-5-7
+
+- MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core, [[ArXiv 2025]](https://arxiv.org/abs/2504.14960), 2025-4-21
+
+- NetMoE: Accelerating MoE Training through Dynamic Sample Placement, [[ICLR 2025]](https://openreview.net/forum?id=1qP3lsatCR), 2025-2-28
+
+- Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization, [[ICLR 2025]](https://arxiv.org/abs/2502.19261), 2025-2-26
+
+- Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient, [[ArXiv 2025]](https://arxiv.org/abs/2502.05172), 2025-2-7
+
+- Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models, [[ArXiv 2025]](https://arxiv.org/abs/2501.12370), 2025-1-21
+
+- Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models, [[ArXiv 2025]](https://arxiv.org/abs/2501.11873), 2025-1-21
+
 - DeepSeek-V3 Technical Report, [[ArXiv 2024]](https://arxiv.org/abs/2412.19437), 2024-12-27
   
 - Qwen2.5 Technical Report, [[ArXiv 2024]](https://arxiv.org/abs/2412.15115), 2024-12-19
@@ -61,6 +85,8 @@
 
 - Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent, [[ArXiv 2024]](https://arxiv.org/abs/2411.02265), 2024-11-4
 
+- MoE-I2: Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition, [[EMNLP (Findings) 2024]](https://arxiv.org/abs/2411.01016), 2024-11-1
+
 - MoH: Multi-Head Attention as Mixture-of-Head Attention, [[ArXiv 2024]](https://arxiv.org/abs/2410.11842v1), 2024-10-15
 
 - Upcycling Large Language Models into Mixture of Experts, [[ArXiv 2024]](https://arxiv.org/abs/2410.07524), 2024-10-10
@@ -69,13 +95,19 @@
 
 - OLMoE: Open Mixture-of-Experts Language Models, [[ArXiv 2024]](https://arxiv.org/abs/2409.02060), 2024-9-3
 
+- Duplex: A Device for Large Language Models with Mixture of Experts, Grouped Query Attention, and Continuous Batching, [[MICRO 2024]](https://arxiv.org/abs/2409.01141), 2024-9-2
+
 - Mixture of A Million Experts, [[ArXiv 2024]](https://arxiv.org/abs/2407.04153), 2024-7-4
+
+- Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs, [[ArXiv 2024]](https://arxiv.org/abs/2407.00945), 2024-7-1
 
 - Flextron: Many-in-One Flexible Large Language Model, [[ICML 2024]](https://arxiv.org/abs/2406.10260), 2024-6-11
 
 - Demystifying the Compression of Mixture-of-Experts Through a Unified Framework, [[ArXiv 2024]](https://arxiv.org/abs/2406.02500), 2024-6-4
 
 - Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models, [[ArXiv 2024]](https://github.com/SkyworkAI/Skywork-MoE), 2024-6-3
+
+- MoNDE: Mixture of Near-Data Experts for Large-Scale Sparse Models, [[DAC 2024]](https://arxiv.org/abs/2405.18832), 2024-5-29
 
 - Yuan 2.0-M32: Mixture of Experts with Attention Router, [[ArXiv 2024]](https://arxiv.org/abs/2405.17976), 2024-5-28
 
@@ -158,6 +190,8 @@
 - HOMOE: A Memory-Based and Composition-Aware Framework for Zero-Shot Learning with Hopfield Network and Soft Mixture of Experts, [[ArXiv 2023]](https://arxiv.org/abs/2311.14747), 2023-11-23
 
 - Sira: Sparse mixture of low rank adaptation, [[ArXiv 2023]](https://arxiv.org/abs/2311.09179), 2023-11-15
+
+- SiDA-MoE: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models, [[MLSys 2024]](https://arxiv.org/abs/2310.18859), 2023-10-29
 
 - When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications, [[SIGIR 2024]](https://arxiv.org/abs/2310.18339), 2023-10-21
 
