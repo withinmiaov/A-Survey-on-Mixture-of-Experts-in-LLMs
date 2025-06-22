@@ -51,6 +51,7 @@
 
 ## Paper List (Organized Chronologically and Categorically)
 
+
 - MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention, [[ArXiv 2025]](https://www.arxiv.org/abs/2506.13585), 2025-6-16
 
 - Serving Large Language Models on Huawei CloudMatrix384, [[ArXiv 2025]](https://www.arxiv.org/abs/2506.12708), 2025-6-15
@@ -61,11 +62,17 @@
 
 - Seed1.5-VL Technical Report, [[ArXiv 2025]](https://arxiv.org/abs/2505.07062), 2025-5-11
 
+- MxMoE: Mixed-precision Quantization for MoE with Accuracy and Performance Co-Design, [[ICML 2025]](https://arxiv.org/abs/2505.05799), 2025-5-9
+
 - Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs, [[ArXiv 2025]](https://arxiv.org/abs/2505.04519), 2025-5-7
 
 - MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core, [[ArXiv 2025]](https://arxiv.org/abs/2504.14960), 2025-4-21
 
+- MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism, [[ArXiv 2025]](https://arxiv.org/abs/2504.02263), 2025-4-3
+
 - NetMoE: Accelerating MoE Training through Dynamic Sample Placement, [[ICLR 2025]](https://openreview.net/forum?id=1qP3lsatCR), 2025-2-28
+
+- Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts, [[ArXiv 2025]](https://arxiv.org/abs/2502.19811), 2025-2-27
 
 - Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization, [[ICLR 2025]](https://arxiv.org/abs/2502.19261), 2025-2-26
 
@@ -82,6 +89,8 @@
 - A Survey on Inference Optimization Techniques for Mixture of Experts Models, [[ArXiv 2024]](https://arxiv.org/abs/2412.14219), 2024-12-18
 
 - LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training, [[ArXiv 2024]](https://arxiv.org/abs/2411.15708), 2024-11-24
+
+- MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs, [[ASPLOS 2025]](https://arxiv.org/abs/2411.11217), 2024-11-18
 
 - Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent, [[ArXiv 2024]](https://arxiv.org/abs/2411.02265), 2024-11-4
 
