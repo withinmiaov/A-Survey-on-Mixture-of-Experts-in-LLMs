@@ -16,9 +16,15 @@
 </div>
 
 <p align="center" width="100%">
-  <img src="assets/MoE_Timeline_Jan22.jpg" alt="MoE LLMs Timeline" style="width: 95%; min-width: 100px; display: block; margin: auto;">
+  <img src="assets/MoE_Timeline_20250723.jpg" alt="MoE LLMs Timeline" style="width: 95%; min-width: 100px; display: block; margin: auto;">
   <br>
     A chronological overview of several representative Mixture-of-Experts (MoE) models in recent years. The timeline is primarily structured according to the release dates of the models. MoE models located above the arrow are open-source, while those below the arrow are proprietary and closed-source. MoE models from various domains are marked with distinct colors: Natural Language Processing (NLP) in green, Computer Vision in yellow, Multimodal in pink, and Recommender Systems (RecSys) in cyan.
+</p>
+
+<p align="center" width="100%">
+  <img src="assets/MoE_Timeline_Jan22.jpg" alt="MoE LLMs Timeline" style="width: 95%; min-width: 100px; display: block; margin: auto;">
+  <br>
+    Previous Version: January 2025.
 </p>
 
 > [!IMPORTANT]
