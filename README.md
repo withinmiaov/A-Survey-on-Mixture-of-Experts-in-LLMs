@@ -58,11 +58,107 @@
 ## Paper List (Organized Chronologically and Categorically)
 
 
+- Less is MoE: Trimming Experts in Domain-Specialist Language Models, [[ArXiv 2026]](https://arxiv.org/abs/2606.05538), 2026-6-4
+
+- LoopMoE: Unifying Iterative Computation with Mixture-of-Experts for Language Modeling, [[ArXiv 2026]](https://arxiv.org/abs/2606.04438), 2026-6-3
+
+- UltraEP: Unleash MoE Training and Inference on Rack-Scale Nodes with Near-Optimal Load Balancing, [[ArXiv 2026]](https://arxiv.org/abs/2606.04101), 2026-6-2
+
+- PRISM: Synergizing Vision Foundation Models via Self-organized Expert Specialization, [[ICML 2026]](https://arxiv.org/abs/2606.03444), 2026-6-2
+
+- DOT-MoE: Differentiable Optimal Transport for MoEfication, [[ICML 2026]](https://arxiv.org/abs/2606.01666), 2026-6-1
+
+- DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts, [[ICML 2026]](https://arxiv.org/abs/2606.01062), 2026-5-31
+
+- MESA: Improving MoE Safety Alignment via Decentralized Expertise, [[ICML 2026]](https://arxiv.org/abs/2606.00651), 2026-5-30
+
+- How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving, [[ArXiv 2026]](https://arxiv.org/abs/2605.28302), 2026-5-27
+
+- VidPrism: Heterogeneous Mixture of Experts for Image-to-Video Transfer, [[CVPR 2026]](https://arxiv.org/abs/2605.28229), 2026-5-27
+
+- ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference, [[ArXiv 2026]](https://arxiv.org/abs/2605.27081), 2026-5-26
+
+- The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence, [[ArXiv 2026]](https://arxiv.org/abs/2605.26494), 2026-5-26
+
+- GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs, [[ICML 2026]](https://arxiv.org/abs/2605.23078), 2026-5-21
+
+- DBES: A Systematic Benchmark and Metric Suite for Evaluating Expert Specialization in Large-Scale MoEs, [[ArXiv 2026]](https://arxiv.org/abs/2605.18498), 2026-5-18
+
+- ROMER: Expert Replacement and Router Calibration for Robust MoE LLMs on Analog Compute-in-Memory Systems, [[ArXiv 2026]](https://arxiv.org/abs/2605.11800), 2026-5-12
+
+- MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems, [[ISCA 2026]](https://arxiv.org/abs/2605.05888), 2026-5-7
+
+- Accelerating MoE with Dynamic In-Switch Computing on Multi-GPUs, [[ISCA 2026]](https://arxiv.org/abs/2605.05607), 2026-5-7
+
+- GEM: Graph-Enhanced Mixture-of-Experts with ReAct Agents for Dialogue State Tracking, [[AAAI 2026]](https://arxiv.org/abs/2605.04449), 2026-5-6
+
+- SMoES: Soft Modality-Guided Expert Specialization in MoE-VLMs, [[CVPR 2026]](https://arxiv.org/abs/2604.23996), 2026-4-27
+
+- UniEP: Unified Expert-Parallel MoE MegaKernel for LLM Training, [[ArXiv 2026]](https://arxiv.org/abs/2604.19241), 2026-4-21
+
+- Design and Behavior of Sparse Mixture-of-Experts Layers in CNN-based Semantic Segmentation, [[CVPR 2026]](https://arxiv.org/abs/2604.13761), 2026-4-15
+
+- Enhancing Mixture-of-Experts Specialization via Cluster-Aware Upcycling, [[CVPR 2026]](https://arxiv.org/abs/2604.13508), 2026-4-15
+
+- WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting, [[ICLR 2026]](https://arxiv.org/abs/2604.10544), 2026-4-12
+
+- Do Domain-specific Experts exist in MoE-based LLMs?, [[ArXiv 2026]](https://arxiv.org/abs/2604.05267), 2026-4-7
+
+- The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level, [[ICML 2026]](https://arxiv.org/abs/2604.02178), 2026-4-2
+
+- On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models, [[CVPR 2026]](https://arxiv.org/abs/2603.27481), 2026-3-29
+
+- MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models, [[CVPR 2026]](https://arxiv.org/abs/2603.24984), 2026-3-26
+
+- Holistic Scaling Laws for Optimal Mixture-of-Experts Architecture Optimization, [[ArXiv 2026]](https://arxiv.org/abs/2603.21862), 2026-3-23
+
+- Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers, [[ICML 2026]](https://arxiv.org/abs/2603.09453), 2026-3-10
+
+- Scalable Training of Mixture-of-Experts Models with Megatron Core, [[ArXiv 2026]](https://arxiv.org/abs/2603.07685), 2026-3-8
+
+- MoE Lens -- An Expert Is All You Need, [[ICLR 2025]](https://arxiv.org/abs/2603.05806), 2026-3-6
+
+- RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation, [[CVPR 2026]](https://arxiv.org/abs/2603.04348), 2026-3-4
+
+- LAER-MoE: Load-Adaptive Expert Re-layout for Efficient Mixture-of-Experts Training, [[ASPLOS 2026]](https://arxiv.org/abs/2602.11686), 2026-2-12
+
+- Expert Divergence Learning for MoE-based Language Models, [[ICLR 2026]](https://arxiv.org/abs/2603.00054), 2026-2-10
+
+- Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs, [[ArXiv 2026]](https://arxiv.org/abs/2602.08621), 2026-2-9
+
+- MixServe: An Automatic Distributed Serving System for MoE Models with Hybrid Parallelism Based on Fused Communication Algorithm, [[ArXiv 2026]](https://arxiv.org/abs/2601.08800), 2026-1-13
+
+- Efficient MoE Inference with Fine-Grained Scheduling of Disaggregated Expert Parallelism, [[ArXiv 2025]](https://arxiv.org/abs/2512.21487), 2025-12-25
+
+- A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models, [[ArXiv 2025]](https://arxiv.org/abs/2512.03915), 2025-12-3
+
+- MLPMoE: Zero-Shot Architectural Metamorphosis of Dense LLM MLPs into Static Mixture-of-Experts, [[ArXiv 2025]](https://arxiv.org/abs/2511.21089), 2025-11-26
+
+- Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs, [[ArXiv 2025]](https://arxiv.org/abs/2511.07419), 2025-11-10
+
+- Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs, [[ArXiv 2025]](https://arxiv.org/abs/2510.01185), 2025-10-1
+
+- Towards a Comprehensive Scaling Law of Mixture-of-Experts, [[ArXiv 2025]](https://arxiv.org/abs/2509.23678), 2025-9-28
+
+- Defending MoE LLMs against Harmful Fine-Tuning via Safety Routing Alignment, [[ArXiv 2025]](https://arxiv.org/abs/2509.22745), 2025-9-26
+
+- Mixture of Thoughts: Learning to Aggregate What Experts Think, Not Just What They Say, [[ArXiv 2025]](https://arxiv.org/abs/2509.21164), 2025-9-25
+
+- Dropping Experts, Recombining Neurons: Retraining-Free Pruning for Sparse Mixture-of-Experts LLMs, [[ArXiv 2025]](https://arxiv.org/abs/2509.10377), 2025-9-12
+
+- Steering MoE LLMs via Expert (De)Activation, [[ArXiv 2025]](https://arxiv.org/abs/2509.09660), 2025-9-11
+
 - MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention, [[ArXiv 2025]](https://www.arxiv.org/abs/2506.13585), 2025-6-16
 
 - Serving Large Language Models on Huawei CloudMatrix384, [[ArXiv 2025]](https://www.arxiv.org/abs/2506.12708), 2025-6-15
-  
+
 - Ming-Omni: A Unified Multimodal Model for Perception and Generation, [[ArXiv 2025]](https://arxiv.org/abs/2506.09344), 2025-6-11
+
+- DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts, [[ACL 2025]](https://arxiv.org/abs/2506.09351), 2025-6-11
+
+- MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts, [[ACL 2025]](https://arxiv.org/abs/2506.07533), 2025-6-9
+
+- HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts, [[ArXiv 2025]](https://arxiv.org/abs/2505.24722), 2025-5-30
 
 - MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production, [[ArXiv 2025]](https://arxiv.org/abs/2505.11432), 2025-5-16
 
@@ -76,11 +172,21 @@
 
 - MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism, [[ArXiv 2025]](https://arxiv.org/abs/2504.02263), 2025-4-3
 
+- MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation, [[AAAI 2025]](https://arxiv.org/abs/2503.20384), 2025-3-26
+
+- Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM, [[ArXiv 2025]](https://arxiv.org/abs/2503.17793), 2025-3-22
+
+- Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts, [[ICLR 2026]](https://arxiv.org/abs/2503.05066), 2025-3-7
+
+- Every FLOP Counts: Scaling a 300B Mixture-of-Experts LING LLM without Premium GPUs, [[ArXiv 2025]](https://arxiv.org/abs/2503.05139), 2025-3-7
+
 - NetMoE: Accelerating MoE Training through Dynamic Sample Placement, [[ICLR 2025]](https://openreview.net/forum?id=1qP3lsatCR), 2025-2-28
 
 - Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts, [[ArXiv 2025]](https://arxiv.org/abs/2502.19811), 2025-2-27
 
 - Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization, [[ICLR 2025]](https://arxiv.org/abs/2502.19261), 2025-2-26
+
+- Unraveling the Localized Latents: Learning Stratified Manifold Structures in LLM Embedding Space with Sparse Mixture-of-Experts, [[ArXiv 2025]](https://arxiv.org/abs/2502.13577), 2025-2-19
 
 - Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient, [[ArXiv 2025]](https://arxiv.org/abs/2502.05172), 2025-2-7
 
@@ -89,7 +195,7 @@
 - Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models, [[ArXiv 2025]](https://arxiv.org/abs/2501.11873), 2025-1-21
 
 - DeepSeek-V3 Technical Report, [[ArXiv 2024]](https://arxiv.org/abs/2412.19437), 2024-12-27
-  
+
 - Qwen2.5 Technical Report, [[ArXiv 2024]](https://arxiv.org/abs/2412.15115), 2024-12-19
 
 - A Survey on Inference Optimization Techniques for Mixture of Experts Models, [[ArXiv 2024]](https://arxiv.org/abs/2412.14219), 2024-12-18
@@ -138,8 +244,6 @@
 
 - M4oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts, [[MICCAI 2024]](https://papers.miccai.org/miccai-2024/paper/1472_paper.pdf), 2024-05-15
 
-- Optimizing Distributed ML Communication with Fused Computation-Collective Operations, [[ArXiv 2023]](https://arxiv.org/abs/2305.06942), 2023-5-11
-
 - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model, [[ArXiv 2024]](https://arxiv.org/abs/2405.04434), 2024-5-7
 
 - Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training, [[ArXiv 2024]](https://arxiv.org/abs/2405.03133), 2024-5-6
@@ -162,7 +266,7 @@
 
 - Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models, [[ArXiv 2024]](https://arxiv.org/abs/2404.05567), 2024-4-8
 
-- Shortcut-connected Expert Parallelism for Accelerating Mixture-of-Experts, [[ArXiv 2024]](https://arxiv.org/abs/2404.05019), 2024-4-7
+- Shortcut-connected Expert Parallelism for Accelerating Mixture-of-Experts, [[ICML 2025]](https://arxiv.org/abs/2404.05019), 2024-4-7
 
 - Mixture-of-Depths: Dynamically allocating compute in transformer-based language models	[[ArXiv 2024]](https://arxiv.org/abs/2404.02258), 2024-4-2
 
@@ -192,13 +296,13 @@
 
 - DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models	[[ArXiv 2024]](https://arxiv.org/abs/2401.06066), 2024-1-11
 
-- LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training, [[Github 2023]](https://github.com/pjlab-sys4nlp/llama-moe/blob/main/docs/LLaMA_MoE.pdf), 2023-12
-
 - Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning	[[ArXiv 2023]](https://arxiv.org/abs/2312.12379), 2023-12-19
 
 - LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin	[[ArXiv 2023]](https://arxiv.org/abs/2312.09979), 2023-12-15
 
 - Mixtral of Experts, [[ArXiv 2024]](https://arxiv.org/abs/2401.04088), 2023-12-11
+
+- LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training, [[Github 2023]](https://github.com/pjlab-sys4nlp/llama-moe/blob/main/docs/LLaMA_MoE.pdf), 2023-12
 
 - Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts	[[ArXiv 2023]](https://arxiv.org/abs/2312.00968), 2023-12-1
 
@@ -253,6 +357,8 @@
 - PipeMoE: Accelerating Mixture-of-Experts through Adaptive Pipelining, [[INFOCOM 2023]](https://ieeexplore.ieee.org/document/10228874), 2023-5-17
 
 - MPipeMoE: Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism	[[IPDPS 2023]](https://ieeexplore.ieee.org/document/10177396), 2023-5-15
+
+- Optimizing Distributed ML Communication with Fused Computation-Collective Operations, [[ArXiv 2023]](https://arxiv.org/abs/2305.06942), 2023-5-11
 
 - FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement	[[Proc. ACM Manag. Data 2023]](https://arxiv.org/abs/2304.03946), 2023-4-8
 
@@ -373,7 +479,6 @@
 - Modeling task relationships in multi-task learning with multi-gate mixture-of-experts, [[KDD 2018]](https://arxiv.org/abs/2010.11125), 2018-7-19
 
 - OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER	[[ICLR 2017]](https://arxiv.org/abs/1701.06538), 2017-1-23
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
