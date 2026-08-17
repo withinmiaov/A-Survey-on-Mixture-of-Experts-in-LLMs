@@ -497,7 +497,7 @@ This repository is actively maintained, and we welcome your contributions! If yo
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=withinmiaov/A-Survey-on-Mixture-of-Experts&type=Date)](https://star-history.com/#withinmiaov/A-Survey-on-Mixture-of-Experts&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=withinmiaov/A-Survey-on-Mixture-of-Experts&type=Date)](https://star-history.dera.page/#withinmiaov/A-Survey-on-Mixture-of-Experts&type=Date)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
