@@ -497,7 +497,8 @@ This repository is actively maintained, and we welcome your contributions! If yo
 
 ## Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=withinmiaov/A-Survey-on-Mixture-of-Experts&type=Date)](https://star-history.dera.page/#withinmiaov/A-Survey-on-Mixture-of-Experts&type=Date)
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs&type=Date)](https://star-history.dera.page/#withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
