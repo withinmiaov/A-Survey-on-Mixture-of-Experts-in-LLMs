@@ -94,6 +94,8 @@
 
 - SMoES: Soft Modality-Guided Expert Specialization in MoE-VLMs, [[CVPR 2026]](https://arxiv.org/abs/2604.23996), 2026-4-27
 
+- Preserving Long-Tailed Expert Information in Mixture-of-Experts Tuning, [[COLM 2026]](https://arxiv.org/abs/2604.23036), 2026-4-24
+
 - UniEP: Unified Expert-Parallel MoE MegaKernel for LLM Training, [[ArXiv 2026]](https://arxiv.org/abs/2604.19241), 2026-4-21
 
 - Design and Behavior of Sparse Mixture-of-Experts Layers in CNN-based Semantic Segmentation, [[CVPR 2026]](https://arxiv.org/abs/2604.13761), 2026-4-15
